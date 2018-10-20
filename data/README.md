@@ -18,7 +18,7 @@ https://www.kaggle.com/c/home-credit-default-risk/data
 
 In order to reproduce my results, the following eight CSV files must be downloaded and unzipped inside this `/data` directory:
 
-<img src="https://github.com/jamesdellinger/kaggle_home_credit_default_risk_competition/blob/master/images/homecredit.png" height="700">
+<img src="https://github.com/jamesdellinger/kaggle_home_credit_default_risk_competition/blob/master/images/homecredit.png" height="500">
 
 1. [application_test.csv.zip](https://www.kaggle.com/c/9120/download/application_test.csv.zip)
 2. [application_train.csv.zip](https://www.kaggle.com/c/9120/download/application_train.csv.zip)

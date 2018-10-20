@@ -9,7 +9,8 @@
 * This put my solo submission inside the top 8% and was good enough to earn me a bronze medal in the competition.
 * My best performing kernel is [here on kaggle](https://www.kaggle.com/jamesdellinger/home-credit-putting-all-the-steps-together), and in the notebook just below.
 
-## [Competition Solution](http://nbviewer.jupyter.org/github.com/jamesdellinger/kaggle_home_credit_default_risk_competition/blob/master/kernel_home_credit_putting_all_the_steps_together_v10.ipynb)
+## Competition Solution
+* [Notebook](http://nbviewer.jupyter.org/https://github.com/jamesdellinger/kaggle_home_credit_default_risk_competition/blob/master/kernel_home_credit_putting_all_the_steps_together_v10.ipynb)
 
 ## Concepts
 * I applied extensive exploration and preprocessing to the competition's [dataset](https://www.kaggle.com/c/home-credit-default-risk/data).
