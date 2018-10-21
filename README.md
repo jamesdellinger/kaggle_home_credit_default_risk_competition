@@ -1,16 +1,16 @@
 # Kaggle Home Credit Default Risk Competition
-*Using feature engineering and LightGBM to build a bronze medal solution to the [Home Credit Default Risk competition](https://www.kaggle.com/c/home-credit-default-risk) on kaggle.*
+*Using feature engineering and LightGBM to build a bronze medal solution to the [Kaggle Home Credit Default Risk competition](https://www.kaggle.com/c/home-credit-default-risk).*
 
 <img src="https://github.com/jamesdellinger/kaggle_home_credit_default_risk_competition/blob/master/images/thumb76_76.png" height="140">
 
-## Competition Solution
+## My Competition Solution
 * [Notebook](http://nbviewer.jupyter.org/github/jamesdellinger/kaggle_home_credit_default_risk_competition/blob/master/kernel_home_credit_putting_all_the_steps_together_v10.ipynb)
 
-## Concepts
-* I applied extensive exploration and preprocessing to the competition's [dataset](https://www.kaggle.com/c/home-credit-default-risk/data).
-* Compared the performance various learning models/featuresets/dimensionality reduction.
-* Engineered a handful of new features.
-* Ultimately got best results by fitting a LightGBM model to the full featureset, in order predict which borrowers are most likely to have difficulty repaying their loans.
+## My Solution's Key Components
+* LightGBM: https://papers.nips.cc/paper/6907-lightgbm-a-highly-efficient-gradient-boosting-decision-tree
+* Feature engineering by hand/intuition, and through various aggregations
+* Target encoding
+* Mean rank prediction blending
 
 ## Background
 * I participated in the [Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk) kaggle competition during June of 2018 in order to complete my [final project](https://github.com/jamesdellinger/machine_learning_nanodegree_capstone_project) for Udacity's Machine Learning Engineer nanodegree. At this time I earned a public leaderboard score of `0.74111`.
