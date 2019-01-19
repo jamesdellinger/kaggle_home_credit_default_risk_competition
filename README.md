@@ -1,7 +1,7 @@
 # Kaggle Home Credit Default Risk Competition
 *Using feature engineering and LightGBM to build a bronze medal solution to the [Kaggle Home Credit Default Risk competition](https://www.kaggle.com/c/home-credit-default-risk).*
 
-<img src="https://github.com/jamesdellinger/kaggle_home_credit_default_risk_competition/blob/master/images/thumb76_76.png" height="140">
+<img src="https://github.com/jamesdellinger/kaggle_home_credit_default_risk_competition/blob/master/images/hc_comp_logo.png" height="140">
 
 ## My Competition Solution
 * [Notebook](http://nbviewer.jupyter.org/github/jamesdellinger/kaggle_home_credit_default_risk_competition/blob/master/kernel_home_credit_putting_all_the_steps_together_v10.ipynb)
